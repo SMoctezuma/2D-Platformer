@@ -38,7 +38,7 @@ import javax.swing.border.TitledBorder;
  * general collision against terrain instead of just stopping the player at the
  * bottom of the screen, which I'll leave to Miguel to figure out.
  * 
- * @author Kit
+ * @author Kit, Steven, Miguel
  *
  */
 
